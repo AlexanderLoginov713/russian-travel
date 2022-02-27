@@ -5,4 +5,5 @@ Objective: to acquire layout skills while creating a addaptive website.
 Technologies used: 
 * HTML.
 * CSS (Grid, Flex, media queries).
+
 https://alexanderloginov713.github.io/russian-travel/
