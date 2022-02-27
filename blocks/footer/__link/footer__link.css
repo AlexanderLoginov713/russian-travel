@@ -9,6 +9,7 @@
   color: #fff;
   text-decoration: none;
   cursor: pointer;
+  display: block;
 }
 
 .footer__link:hover {
@@ -16,15 +17,13 @@
   transition: 0.4s;
 }
 
-.footer__link:nth-last-child(1) {
-  margin-right: 0px;
-  margin-bottom: 48px;
-}
-
 @media screen and (max-width: 767px) {
   .footer__link {
     font-size: 24px;
     line-height: 100%;
     margin-bottom: 16px;
+  }
+  .footer__link:nth-last-child(1) {
+    margin-bottom: 48px;
   }
 }
