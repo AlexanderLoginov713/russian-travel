@@ -9,17 +9,9 @@
   text-decoration: none;
 }
 
-.header__lang-link:nth-child(2) {
-  margin-left: 18px;
-}
-
 .header__lang-link:hover {
   opacity: 0.5;
   transition: 0.4s;
-}
-
-.header__lang-link:nth-last-of-type(2) {
-  text-decoration: underline;
 }
 
 @media (max-width: 767px) {
