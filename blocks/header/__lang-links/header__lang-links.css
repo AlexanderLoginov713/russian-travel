@@ -1,5 +1,5 @@
-.header__lang-links:first-child {
-  margin: 0;
-  margin-right: 18px;
-  text-decoration: underline;
+.header__lang-links {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
 }
