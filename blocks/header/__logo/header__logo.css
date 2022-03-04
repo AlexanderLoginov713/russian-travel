@@ -4,13 +4,13 @@
   background-size: contain;
   margin-top: 28px;
   min-width: 176px;
-  height: 52px;
+  min-height: 52px;
 }
 
 @media (max-width: 767px) {
   .header__logo {
     margin-top: 16px;
     min-width: 142px;
-    height: 42px;
+    min-height: 42px;
   }
 }

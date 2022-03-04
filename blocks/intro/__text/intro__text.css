@@ -8,6 +8,7 @@
   font-size: 16px;
   line-height: 163%;
   color: #FFFFFF;
+  display: block;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
