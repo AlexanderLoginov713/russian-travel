@@ -1,9 +1,9 @@
-# russian-travel
-A flexible one-page website with responsive image grid created according to a given training brief. 
-Dedicated to traveling around the country which displays correctly on popular screen sizes.
-Objective: to acquire layout skills while creating a addaptive website. 
-Technologies used: 
-* HTML.
-* CSS (Grid, Flex, media queries).
+# Проект Путешествие по России
+Проект о путешествии по России. Пользователь может ознакомиться с привлекательными направлениями при путешествии по России. Приведены ссылки на ресурсы, содержащие описания мест, а так же на инструменты, с помощью которых можно спланировать свое путешествие.
+При создании проекта задействована методология БЭМ. Помимо этого он адаптирован под самые популярные устройства, поэтому каждый сможет изучить предложенный материал. Так же в блоках присутствуют "grid" контейнеры, а все ссылки имеют анимацию.
+### Используемые технологии: 
+* HTML
+* CSS (Grid, Flex, медиа запросы)
+* VS Code
 
 https://alexanderloginov713.github.io/russian-travel/
